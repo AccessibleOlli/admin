@@ -18,6 +18,7 @@
           "Most doctors offices, exam rooms, and some testing areas, are located in Gonda and Mayo Buildings",
           "Overall Mayos extended downtown campus comprises about 30 buildings and 5 parking ramps"
         ],
+        "stop_id": "stop_1",
         "simulation_offset": 211, 
         "delta_time": 106000
       },
@@ -46,6 +47,7 @@
           "Host for SociallCE - Rochesters Winter Ice Bar",
           "In the heart of downtown"
         ],
+        "stop_id": "stop_2",
         "simulation_offset": 427, 
         "delta_time": 214000
       },
@@ -82,6 +84,7 @@
           "Jefe Rojos Restaurant",
           "University of Minnesota"
         ],
+        "stop_id": "stop_3",
         "simulation_offset": 570, 
         "delta_time": 285500
 
@@ -106,6 +109,7 @@
           "Celebrates science on display and enables practitioners and educators to live and work alongside researchers and entrepreneurs",
           "16 block sub-district built in collaboration with Mayo Clinic"
         ],
+        "stop_id": "stop_4",
         "simulation_offset": 19, 
         "delta_time": 10000
       },
@@ -137,6 +141,7 @@
           "Established the first hospital-based blood bank in the US",
           "Developed the first G-suit, a flight suit outfitted with air-filled bladders and a system of valves to protect pilots during high-speed maneuvers by increasing blood flow to the brain"
         ],
+        "stop_id": "stop_5",
         "simulation_offset": 68, 
         "delta_time": 34500
       },
